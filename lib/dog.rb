@@ -6,4 +6,9 @@ class Dog
   def name
     @name
   end
+  
+  def name=("Fido")
+    @name = "Fido"
+  end
 end
+
